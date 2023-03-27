@@ -71,7 +71,7 @@ $ apt update && apt upgrade
 $ apt install git -y
 $ apt install nodejs -y
 $ apt install ffmpeg -y
-$ git clone https://github.com/resahdevv/Whats-Payment.git
+$ git clone https://github.com/heripanel/new-wa-store.git
 $ cd Whats-Payment
 $ yarn
 $ npm start
